@@ -13,3 +13,6 @@ https://1drv.ms/o/s!AuwQM44QVxDQg6EZnsVPkMLqjRUy6Q?e=YuXBrz
 →使用言語：C++
 GUIを使用したい
 DAWからmidi(歌詞を含んだ)を受け取って、発声する感じ。
+
+「ん」は全て有声音ですが、場合によって発音が変わります
+/n/ /m/ /ɴ/ /ŋ/ etc.
