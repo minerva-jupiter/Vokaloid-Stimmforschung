@@ -20,3 +20,8 @@ DAWからmidi(歌詞を含んだ)を受け取って、発声する感じ。
 |ん|子|有|/n/ /m/  /ɴ/  /ŋ/ etc.|https://ja.m.wikipedia.org/wiki/%E3%82%93|
 |---|---|---|---|---|
 |あ|母|有|/ä/|https://ja.m.wikipedia.org/wiki/%E3%81%82|
+|い|母|有|/i/|https://ja.m.wikipedia.org/wiki/%E3%81%84|
+|う|母|有|/u/|https://ja.m.wikipedia.org/wiki/%E3%81%86|
+|え|母|有|/e/|https://ja.m.wikipedia.org/wiki/%E3%81%88|
+|お|母|有|/o/|https://ja.m.wikipedia.org/wiki/%E3%81%8A|
+
